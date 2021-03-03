@@ -7,7 +7,13 @@ A classic arcade game made for my Game Programming Class. The player has to brea
 - Code with C# language
 
 # Screenshots
-![](Screenshots/StartMenu.png)
+![](https://github.com/Onionie/BlockBreaker/blob/main/Screenshots/StartMenu.PNG)
+
+![](https://github.com/Onionie/BlockBreaker/blob/main/Screenshots/level1.PNG)
+
+![](https://github.com/Onionie/BlockBreaker/blob/main/Screenshots/level2.PNG)
+
+![](https://github.com/Onionie/BlockBreaker/blob/main/Screenshots/GameOver.PNG)
 
 
 # Assets and Resources
